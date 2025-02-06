@@ -13,7 +13,7 @@ Este repositorio sirve como un espacio de aprendizaje y referencia, tanto para m
 ## 📂 Estructura del Repositorio  
 Cada write-up está organizado por plataforma y nombre del reto:  
 
-
+```
 ### 🖥️ VulnHub  
 - [Máquina 1](VulnHub/BADSTORE_1.2.3.md)  
 - [Máquina 2](VulnHub/Máquina_2.md)  
@@ -29,7 +29,7 @@ Cada write-up está organizado por plataforma y nombre del reto:
 ### 🛡️ TheHackerLabs  
 - [Desafío 1](TheHackerLabs/Desafío_1.md)  
 - [Desafío 2](TheHackerLabs/Desafío_2.md)  
-
+```
 
 ## ⚠️ Disclaimer  
 Este contenido es solo para **fines educativos y de aprendizaje** en el ámbito de la **seguridad informática** y **hacking ético**. No me hago responsable del uso indebido de la información compartida.  
