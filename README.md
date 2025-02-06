@@ -15,7 +15,7 @@ Cada write-up está organizado por plataforma y nombre del reto:
 
 
 ### 🖥️ VulnHub  
-- [Máquina 1](VulnHub/Máquina_1.md)  
+- [Máquina 1](VulnHub/BADSTORE 1.2.3.md)  
 - [Máquina 2](VulnHub/Máquina_2.md)  
 
 ### 🌍 TryHackMe  
