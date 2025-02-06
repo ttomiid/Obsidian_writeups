@@ -13,23 +13,18 @@ Este repositorio sirve como un espacio de aprendizaje y referencia, tanto para m
 ## 📂 Estructura del Repositorio  
 Cada write-up está organizado por plataforma y nombre del reto:  
 
-```
 ### 🖥️ VulnHub  
-- [Máquina 1](VulnHub/BADSTORE_1.2.3.md)  
-- [Máquina 2](VulnHub/Máquina_2.md)  
+- [BADSTORE 1.2.3](VulnHub/BADSTORE_1.2.3.md)  
 
 ### 🌍 TryHackMe  
-- [Reto 1](TryHackMe/Reto_1.md)  
-- [Reto 2](TryHackMe/Reto_2.md)  
+- EN PROCESO
 
 ### 🔥 Hack The Box  
-- [Máquina 1](HackTheBox/Máquina_1.md)  
-- [Máquina 2](HackTheBox/Máquina_2.md)  
+- EN PROCESO
 
 ### 🛡️ TheHackerLabs  
-- [Desafío 1](TheHackerLabs/Desafío_1.md)  
-- [Desafío 2](TheHackerLabs/Desafío_2.md)  
-```
+- EN PROCESO
+
 
 ## ⚠️ Disclaimer  
 Este contenido es solo para **fines educativos y de aprendizaje** en el ámbito de la **seguridad informática** y **hacking ético**. No me hago responsable del uso indebido de la información compartida.  
