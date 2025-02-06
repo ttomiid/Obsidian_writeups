@@ -15,7 +15,7 @@ Cada write-up está organizado por plataforma y nombre del reto:
 
 ```plaintext
 📁 VulnHub/
-├── BADSTORE 1.2.3.md
+├── [BADSTORE 1.2.3](BADSTORE 1.2.3.md)
 📁 TryHackMe/
 ├── 
 📁 HackTheBox/
