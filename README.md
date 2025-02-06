@@ -13,7 +13,7 @@ Este repositorio sirve como un espacio de aprendizaje y referencia, tanto para m
 ## 📂 Estructura del Repositorio  
 Cada write-up está organizado por plataforma y nombre del reto:  
 
-```
+
 📁 VulnHub/
 ├── [BADSTORE 1.2.3](BADSTORE 1.2.3.md)
 📁 TryHackMe/
@@ -22,8 +22,6 @@ Cada write-up está organizado por plataforma y nombre del reto:
 ├── 
 📁 TheHackerLabs/
 ├── 
-
-```  
 
 ## ⚠️ Disclaimer  
 Este contenido es solo para **fines educativos y de aprendizaje** en el ámbito de la **seguridad informática** y **hacking ético**. No me hago responsable del uso indebido de la información compartida.  
