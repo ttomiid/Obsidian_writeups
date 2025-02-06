@@ -15,17 +15,14 @@ Cada write-up está organizado por plataforma y nombre del reto:
 
 ```plaintext
 📁 VulnHub/
-├── Máquina_1.md
-├── Máquina_2.md
+├── BADSTORE 1.2.3.md
 📁 TryHackMe/
-├── Reto_1.md
-├── Reto_2.md
+├── 
 📁 HackTheBox/
-├── Máquina_1.md
-├── Máquina_2.md
+├── 
 📁 TheHackerLabs/
-├── Desafío_1.md
-├── Desafío_2.md
+├── 
+
 ```  
 
 ## ⚠️ Disclaimer  
