@@ -1,4 +1,3 @@
-# Obsidian WriteUps
 # Write-Ups & Papers - CTF Challenges  
 
 Bienvenido a este repositorio, donde documento mis análisis, write-ups y papers sobre retos de CTF en plataformas como:  
