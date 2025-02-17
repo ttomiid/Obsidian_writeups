@@ -1,4 +1,6 @@
-# Write-Ups & Papers - CTF Challenges  
+# Nos mudamos :) [WriteUps](https://writeups-ctfs.gitbook.io/writeup-ctf)
+
+# Obsidian WriteUps
 
 Bienvenido a este repositorio, donde documento mis análisis, write-ups y papers sobre retos de CTF en plataformas como:  
 - **VulnHub**  
